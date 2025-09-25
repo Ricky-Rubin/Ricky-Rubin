@@ -16,7 +16,7 @@
 
 ## 🎯 Featured Projects
 
-### 🧩 Word Puzzle Game
+### 🧩 [Word Puzzle Game](https://github.com/Ricky-Rubin/Word-Puzzle)
 Interactive word guessing game with dynamic gameplay mechanics
 - **Tech:** React.js, JavaScript, HTML5, CSS3
 - **Features:** Word generation, game logic, responsive design
